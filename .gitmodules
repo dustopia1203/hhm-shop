@@ -1,0 +1,6 @@
+[submodule "hhm-fe"]
+	path = hhm-fe
+	url = git@github.com:dustopia1203/hhm-fe.git
+[submodule "hhm-be"]
+	path = hhm-be
+	url = git@github.com:dustopia1203/hhm-be.git
