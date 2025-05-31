@@ -4,3 +4,6 @@
 [submodule "hhm-be"]
 	path = hhm-be
 	url = git@github.com:dustopia1203/hhm-be.git
+[submodule "solana-payment-service"]
+	path = solana-payment-service
+	url = git@github.com:dustopia1203/solana-payment-service.git
